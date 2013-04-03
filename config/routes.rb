@@ -1,4 +1,7 @@
 Sample::Application.routes.draw do
+  resources :products
+
+
   get "say/hello"
 
   get "say/goodbye"
