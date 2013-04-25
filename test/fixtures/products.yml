@@ -1,13 +1,13 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
-one:
-  title: MyString
-  description: MyText
-  image: 
+ruby:
+  title: Programming Ruby
+  description: Best book to start learning ruby
+  image: one.png
   price: 9.99
 
-two:
-  title: MyString
-  description: MyText
-  image: 
-  price: 9.99
+rails:
+  title: Rails 3
+  description: Agile web development with Rails
+  image: two.jpg
+  price: 90
